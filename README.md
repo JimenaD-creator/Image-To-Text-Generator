@@ -1,6 +1,6 @@
 # 🖼️➡️📝 Clarifai Image-to-Text Generator
 
-This is a simple web app built with [Streamlit](https://streamlit.io/) that uses the [Clarifai](https://www.clarifai.com/) API to generate natural language descriptions from images. You can either upload an image or provide an image URL, and the app will generate a text caption using a Clarifai Image-to-Text workflow.
+This is a simple web app built with [Streamlit](https://streamlit.io/) that uses the [Clarifai](https://www.clarifai.com/) API to generate natural language descriptions from images. You can upload an image, and the app will generate a text caption using a Clarifai Image-to-Text workflow.
 
 ---
 
