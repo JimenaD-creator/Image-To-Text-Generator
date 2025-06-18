@@ -20,6 +20,28 @@ This is a simple web app built with [Streamlit](https://streamlit.io/) that uses
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Requirements
+
+Make sure you have Python 3.8+ installed, then install dependencies with:
+
+```bash
+pip install streamlit
+pip install clarifai
+pip install protobuf
+```
+
+---
+
+## ▶️ Running the App
+```bash
+streamlit run app.py
+
+```
+Then open your browser at http://localhost:8501
+
+## 🤖 Example Output
+
+Generated Text: “A group of people sitting around a table having a meeting.”
+
 
 
