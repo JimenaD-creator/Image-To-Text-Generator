@@ -34,7 +34,7 @@ pip install protobuf
 
 ## ▶️ Running the App
 ```bash
-streamlit run app.py
+streamlit run agent_AI.py
 
 ```
 Then open your browser at http://localhost:8501
